@@ -11,5 +11,10 @@ export default () =>
           <img src="https://cdn-images-1.medium.com/fit/c/200/200/0*yuuSQvi0cyWnIlC_.jpeg" alt="Me being me"/>
         </Link>
       </div>
+      <div style={{  }}>
+        <Link to="/counter">
+          <img src="https://cdn-images-1.medium.com/fit/c/200/200/0*yuuSQvi0cyWnIlC_.jpeg" alt="Me being me"/>
+        </Link>
+      </div>
     </div>
 	</div>
